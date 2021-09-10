@@ -1,0 +1,3 @@
+1@Ayman@Ezzat@30@8000.0@Mon 12pm to 2pm@Prof_1@12345678@
+2@Waleed@Youssef@35@8500.0@Mon 2pm to 6pm@Prof_2@12345679@
+3@Peter@Ezzat@22@5500.0@5500.0@Dr.Peter@123456789@
