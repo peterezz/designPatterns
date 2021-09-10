@@ -10,3 +10,12 @@ this project is doing the same functions as college system project *(https://git
 > - *Student* can subscribe a coure to see when is the course available
 >  - *Student* can register a course
 >  
+
+#### Implemented design patterns 
+>
+> - Factory Design pattern
+> - Adpter Design pattern
+> - Factory Design pattern
+> - observer Design pattern
+> - strategy Design pattern
+>
