@@ -5,8 +5,12 @@ this project is doing the same functions as college system project *(https://git
 > - *Admin* can add student,teacher and course
 >  - *Admin* can update student,teacher and course
 >  - *Admin* can delete student,teacher and course
->  - *teacher* teachers the course to registerd students 
 > - *Admin* can set course availablity
+
+>  - *Teacher* can signup and login
+>  - *Teacher* teaches the course to registerd students
+
+> - *Studet* can signup and login
 > - *Student* can subscribe a coure to see when is the course available
 >  - *Student* can register a course
 >  
